@@ -1,0 +1,19 @@
+.Odd{
+    background-color: coral;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#elem-1{
+    color: blue;
+    font-size: 36px;
+}
+
+#elem-2{
+    font-size: 24px;
+}
+
+#elem-3{
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+}
